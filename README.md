@@ -13,7 +13,7 @@ I have also strong technical understanding of various machine learning algorithm
 
 ### About Me
 #### Main Skills
----
+<div style='display: flex; '>
 <img src='./doc/rust.png' width='90'>
 <img src='./doc/solidity.png' width='115'>
 <img src='./doc/web3.webp' width='50'>
@@ -22,6 +22,7 @@ I have also strong technical understanding of various machine learning algorithm
 <img src='./doc/js.svg' width='50'>
 <img src='./doc/mongodb.svg' width='50'>
 <img src='./doc/mysql.svg' width='50'>
+</div>
 
 
 ### Git Work
@@ -32,14 +33,12 @@ I have also strong technical understanding of various machine learning algorithm
 
 ### Contact Me
 #### Social Link
----
 <img src='./doc/linkedin.png' width='90' title='+12098134202'>
 <img src='./doc/twitter.png' width='100' title='+12098134202'>
 <img src='./doc/facebook.jpeg' width='90' title='+12098134202'>
 
 
 #### Telecommunication
-***
 <img src='./doc/phone.svg' width='100' title='+12098134202'>
 <img src='./doc/mail.svg' width='100' title='jordanrobert443@gmail.com'>
 <img src='./doc/skype.svg' width='100' title='live:.cid.fd8ced07bdabb2c3'>
