@@ -33,19 +33,21 @@ I have also strong technical understanding of various machine learning algorithm
 
 ### Contact Me
 #### Social Link
+<div style='display: flex; '>
 <img src='./doc/linkedin.png' width='90' title='+12098134202'>
 <img src='./doc/twitter.png' width='100' title='+12098134202'>
 <img src='./doc/facebook.jpeg' width='90' title='+12098134202'>
-
+</div>
 
 #### Telecommunication
+<div style='display: flex; '>
 <img src='./doc/phone.svg' width='100' title='+12098134202'>
 <img src='./doc/mail.svg' width='100' title='jordanrobert443@gmail.com'>
 <img src='./doc/skype.svg' width='100' title='live:.cid.fd8ced07bdabb2c3'>
 <img src='./doc/telegram.svg' width='132' title='goldenstar11111'>
 <img src='./doc/discord.svg' width='118' title='CryptoSuper#4847'>
 <img src='./doc/whatsapp.png' width='100' title='+12098134202'>
-
+</div>
 
 <!--
 **goldenstar111/goldenstar111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
