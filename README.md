@@ -1,4 +1,49 @@
-### Hi there 👋
+# Hi 👋 I am Robert Alverez Jordan
+## A passionate blockchain enginner
+![profile views](./doc/profileview.svg)
+
+I am currently working remotely.
+
+❤️ **I'm passionate about:**
+
+I am blockchain developer
+ I have 6+ years of experience writing blockchain web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of smart contract, front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. As a full stack developer, my main programming language is Javascript, Solidty, Rust, Python. I have good experience with ❤️Rust❤️, Solidity, Web3, ❤️React.js❤️, Ethers, Python, Openzepplin. Particularly Solidity and Rust is my ❤️ framework and also I have rich experenice on React Framework(MERN), Truffle. Including framwork that said above, I have done 10+ web site with MERN, Nuxt, Next, Web3, Ethers.
+
+I have also strong technical understanding of various machine learning algorithms, including Neural networks and Deep learning.
+
+### About Me
+#### Main Skills
+
+<img src='./doc/rust.png' width='90'>
+<img src='./doc/solidity.png' width='115'>
+<img src='./doc/web3.webp' width='50'>
+<img src='./doc/react.svg' width='50'>
+<img src='./doc/aws.svg' width='50'>
+<img src='./doc/js.svg' width='50'>
+<img src='./doc/mongodb.svg' width='50'>
+<img src='./doc/mysql.svg' width='50'>
+
+### Git Work
+![Review](./doc/review.svg)
+
+## Lastest Product
+
+
+### Contact Me
+#### Social Link
+<img src='./doc/linkedin.png' width='90' title='+12098134202'>
+<img src='./doc/twitter.png' width='100' title='+12098134202'>
+<img src='./doc/facebook.jpeg' width='90' title='+12098134202'>
+
+
+#### Telecommunication
+<img src='./doc/phone.svg' width='100' title='+12098134202'>
+<img src='./doc/mail.svg' width='100' title='jordanrobert443@gmail.com'>
+<img src='./doc/skype.svg' width='100' title='live:.cid.fd8ced07bdabb2c3'>
+<img src='./doc/telegram.svg' width='132' title='goldenstar11111'>
+<img src='./doc/discord.svg' width='118' title='CryptoSuper#4847'>
+<img src='./doc/whatsapp.png' width='100' title='+12098134202'>
+
 
 <!--
 **goldenstar111/goldenstar111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
