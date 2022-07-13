@@ -29,7 +29,42 @@ I have also strong technical understanding of various machine learning algorithm
 ![Review](./doc/review.svg)
 
 ## Lastest Product
+### Defi
+#### Geist Finance on Fantom
+<a href='https://geist.finance/markets' target='_blank'>
+<img src='./project/geist_finance.png'></img>
+</a>
 
+#### Tree Defi Finance
+
+
+#### Vesq Finance
+
+### Blockchain Domain Name Service on Fantom
+#### FNS
+
+
+### Staking
+#### Satin Token Staking on BSC
+
+
+#### Avax Fomo Staking on Avax Chain
+
+
+#### MMX Staking on Harmony Chain
+
+
+### Presale Site
+#### Atari Token Presale
+
+### Blockchain Bot
+- Flashloan Arbitrage Bot
+- Coin AddLiquidity Frontrun Attack Bot
+- Sandwich Bot
+- Pancake Prediction Betting Bot
+- PinkSale Trending Bot
+- Sniper Bot
+- NFT Rarity Sniper Bot on Opensea
 
 ### Contact Me
 #### Social Link
