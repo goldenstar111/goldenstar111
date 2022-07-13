@@ -36,12 +36,28 @@ I have also strong technical understanding of various machine learning algorithm
 </a>
 
 #### Tree Defi Finance
+##### Main Homepage
+<a href='https://treedefi.com/' target='_blank'>
+<img src='./project/treedefi.png'></img>
+</a>
 
+##### Defi, NFT Staking, NFT Marketplace
+<a href='https://dex.treedefi.com/' target='_blank' width='30%'>
+<img src='./project/treedefi_dex.png'></img>
+</a>
+<a href='https://nft.treedefi.com/' target='_blank' width='30%'>
+<img src='./project/treedefi_marketplace.png'></img>
+</a>
+<a href='https://nft.treedefi.com/merchandise' target='_blank' width='30%'>
+<img src='./project/treedefi_nftstaking.png'></img>
+</a>
 
 #### Vesq Finance
 
 ### Blockchain Domain Name Service on Fantom
 #### FNS
+
+### Scorpfion Dragon NFT Marketplace on BSC
 
 
 ### Staking
