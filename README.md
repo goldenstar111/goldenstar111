@@ -41,14 +41,24 @@ I have also strong technical understanding of various machine learning algorithm
 
 #### Telecommunication
 <div style='display: flex; '>
-<a href='mailto: +12098134202' width='100'>
+<a href='mailto:+12098134202' target='_blank' width='100'>
 <img src='./doc/phone.svg' width='100' title='+12098134202'>
 </a>
+<a href='mailto:jordanrobert443@gmail.com' target='_blank' width='100'>
 <img src='./doc/mail.svg' width='100' title='jordanrobert443@gmail.com'>
+</a>
+<a href='https://join.skype.com/invite/NffEWcmhlBAM' target='_blank' width='100'>
 <img src='./doc/skype.svg' width='100' title='live:.cid.fd8ced07bdabb2c3'>
+</a>
+<a href='https://t.me/@goldenstar11111' target='_blank' width='100'>
 <img src='./doc/telegram.svg' width='132' title='goldenstar11111'>
+</a>
+<a href='https://discordapp.com/users/CryptoSuper#4847' target='_blank' width='100'>
 <img src='./doc/discord.svg' width='118' title='CryptoSuper#4847'>
+</a>
+<a href='https://wa.me/12098134202' target='_blank' width='100'>
 <img src='./doc/whatsapp.png' width='100' title='+12098134202'>
+</a>
 </div>
 
 <!--
