@@ -35,20 +35,20 @@ I have also strong technical understanding of various machine learning algorithm
 <img src='./project/geist_finance.png'></img>
 </a>
 
-#### Tree Defi Finance
+#### Tree Defi Finance on BSC
 ##### Main Homepage
-<a href='https://treedefi.com/' target='_blank'>
+<a href='https://app.treedefi.com/' target='_blank'>
 <img src='./project/treedefi.png'></img>
 </a>
 
 ##### Defi, NFT Staking, NFT Marketplace
-<a href='https://dex.treedefi.com/' target='_blank' width='30%'>
-<img src='./project/treedefi_dex.png'></img>
+<a href='https://dex.treedefi.com/' target='_blank'>
+<img src='./project/treedefi_dex.png' width='32%'></img>
 </a>
-<a href='https://nft.treedefi.com/' target='_blank' width='30%'>
+<a href='https://nft.treedefi.com/' target='_blank'>
 <img src='./project/treedefi_marketplace.png'></img>
 </a>
-<a href='https://nft.treedefi.com/merchandise' target='_blank' width='30%'>
+<a href='https://nft.treedefi.com/merchandise' target='_blank'>
 <img src='./project/treedefi_nftstaking.png'></img>
 </a>
 
