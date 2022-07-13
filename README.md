@@ -36,7 +36,7 @@ I have also strong technical understanding of various machine learning algorithm
 <img src='./project/geist_finance.png'></img>
 </a>
 
-[Geist Contract]()
+[Geist Contract](https://github.com/goldenstar111/Geist-Finance-Contracts)
 
 
 #### Tree Defi Finance on BSC
@@ -57,7 +57,7 @@ I have also strong technical understanding of various machine learning algorithm
 <img src='./project/treedefi_nftstaking.png' width='32%'></img>
 </a>
 
-[Tree Defi Contract]()
+[Tree Defi Contract](https://github.com/goldenstar111/treedefi-contracts)
 
 
 ### Vesq Finance on Polygon Main Net
@@ -69,7 +69,7 @@ I have also strong technical understanding of various machine learning algorithm
 <img src='./project/vesq_stake.png' width='47%'></img>
 </a>
 
-[Vesq Finance Frontend - React-web3]()
+[Vesq Finance Frontend - React-web3](https://github.com/goldenstar111/VESQ-DAO)
 
 ### Blockchain Domain Name Service on Fantom
 ---
@@ -81,10 +81,10 @@ I have also strong technical understanding of various machine learning algorithm
 <img src='./project/fns_search.png' width='47%'></img>
 </a>
 
-- [FNS Contract](https://afd.o)
-- [FNS Subgraph](https://afd.o)
-- [FNS Metadata Service Backend](https://afd.o)
-- [FNS Main Frontend](https://afd.o)
+- [FNS Contract](https://github.com/goldenstar111/FNS-Contract)
+- [FNS Subgraph](https://github.com/goldenstar111/FNS-Subgraph)
+- [FNS Metadata Service Backend](https://github.com/goldenstar111/Fns-Metadata-Service-Backend)
+- [FNS Main Frontend](https://github.com/goldenstar111/FNS-App-Frontend)
 
 
 ### Scorpfion Dragon NFT Marketplace on BSC
@@ -93,11 +93,11 @@ I have also strong technical understanding of various machine learning algorithm
 <img src='./project/scorpfion_nftmarketplace.png'></img>
 </a>
 
-- [Marketplace Contract]()
+- [Marketplace Contract](https://github.com/goldenstar111/Scorpfion-NFT-Contract)
 - [Marketplace Subgraph]()
-- [Marketplace Backend]()
+- [Marketplace Backend](https://github.com/goldenstar111/Scorpfion-NFT-Marketplace-on-BSC/tree/main/backend)
 - [Marketplace indexer]()
-- [Marketplace Main Frontend]()
+- [Marketplace Main Frontend](https://github.com/goldenstar111/Scorpfion-NFT-Marketplace-on-BSC/tree/main/frontend)
 
 
 ### Staking
@@ -107,7 +107,8 @@ I have also strong technical understanding of various machine learning algorithm
 <img src='./project/bonsai_nftstaking.png'></img>
 </a>
 
-- [Deployed Satking Contract]()
+- [Src](https://github.com/goldenstar111/Bonsai-NFT-Staking-App)
+- [Deployed Satking Contract](https://github.com/goldenstar111/Bonsai-NFT-Staking-Contract)
 
 #### Satin Token Staking on BSC
 ---
@@ -118,7 +119,8 @@ I have also strong technical understanding of various machine learning algorithm
 <img src='./project/satin_staking.png' width='48%'></img>
 </a>
 
-- [Deployed Satking Contract]()
+- [Src](https://github.com/goldenstar111/Satin-Staking-on-BSC)
+- [Deployed Satking Contract](https://bscscan.com/address/0x66EDd71A2b816964b77351e25aD456dC50aEea42#code)
 
 #### Avax Fomo Staking on Avax Chain
 ---
@@ -126,7 +128,7 @@ I have also strong technical understanding of various machine learning algorithm
 <img src='./project/avax_staking.png'></img>
 </a>
 
-- [Deployed Satking Contract]()
+- [Deployed Satking Contract](https://testnet.snowtrace.io/address/0xa7557a35fd52cd6b09ec71db2e3bfd76b5455a9c)
 
 #### MMX Staking on Harmony Chain
 ---
@@ -134,7 +136,7 @@ I have also strong technical understanding of various machine learning algorithm
 <img src='./project/mmx_staking.png'></img>
 </a>
 
-- [Deployed Satking Contract]()
+- [Deployed Satking Contract](https://explorer.harmony.one/address/0xe908142aeb76358abd0d0d0f62ee7ed982be1c75?activeTab=7)
 
 ### Presale Site
 #### Atari Token Presale
@@ -143,15 +145,27 @@ I have also strong technical understanding of various machine learning algorithm
 <img src='./project/atari_presale.png'></img>
 </a>
 
+- [Contract Address](https://etherscan.io/address/0x1afebf01f5ee7195c7044939e20e2fac6a60b18f#code)
+
+#### [Benoit Token Presale]()
+---
+<a href='http://followupcoinpresale.com/'>
+<img src='./project/benoit_presale.png'></img>
+</a>
+
+- [Src](https://github.com/goldenstar111/FollowUpCoin-Presale)
+- [Contract Address](https://bscscan.com/address/0x8e35826b6B94D1Eb418Ff02415Db4c2A65a0bcBE#code)
+
 ### Blockchain Bot
 ---
-- Flashloan Arbitrage Bot
-- Coin AddLiquidity Frontrun Attack Bot
-- Sandwich Bot
-- Pancake Prediction Betting Bot
-- PinkSale Trending Bot
-- Sniper Bot
-- NFT Rarity Sniper Bot on Opensea
+- [Flashloan Arbitrage Bot](https://github.com/goldenstar111/Arbitrage-Bot-Between-Uniswap-and-Sushiswap)
+- [Coin AddLiquidity Frontrun Attack Bot](https://github.com/goldenstar111/Sandwitch-Bot-on-Eth-Python)
+- [Sandwich Bot](https://github.com/goldenstar111/Sandwitch-Bot-on-Eth-Python)
+- [Pancake Prediction Betting Bot](https://github.com/goldenstar111/Prediction-Betting-Bot)
+- [PinkSale Trending Bot](https://github.com/goldenstar111/PinkSale-Trending-Bot)
+- [Sniper Bot](https://github.com/goldenstar111/BSC-Mempool-Sniper-Bot)
+- [NFT Rarity Sniper Bot on Opensea](https://github.com/goldenstar111/NFT-Sniper-bot)
+- [Frontrun Attack Bot](https://github.com/goldenstar111/Pancakeswap-Frontrun-JS-Script)
 
 ### Contact Me
 #### Social Link
