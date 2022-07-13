@@ -36,7 +36,6 @@ I have also strong technical understanding of various machine learning algorithm
 <div style='display: flex; '>
 <img src='./doc/linkedin.png' width='90' title='+12098134202'>
 <img src='./doc/twitter.png' width='100' title='+12098134202'>
-<img src='./doc/facebook.jpeg' width='90' title='+12098134202'>
 </div>
 
 #### Telecommunication
