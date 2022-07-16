@@ -30,7 +30,7 @@ I have also strong technical understanding of various machine learning algorithm
 
 ## Lastest Product
 ### Defi
-#### Geist Finance on Fantom
+#### [Geist Finance on Fantom](https://geist.finance/)
 ---
 <a href='https://geist.finance/markets' target='_blank'>
 <img src='./project/geist_finance.png'></img>
@@ -39,7 +39,7 @@ I have also strong technical understanding of various machine learning algorithm
 [Geist Contract](https://github.com/goldenstar111/Geist-Finance-Contracts)
 
 
-#### Tree Defi Finance on BSC
+#### [Tree Defi Finance on BSC](https://treedefi.com/)
 ---
 ##### Main Homepage
 <a href='https://app.treedefi.com/' target='_blank'>
@@ -60,7 +60,7 @@ I have also strong technical understanding of various machine learning algorithm
 [Tree Defi Contract](https://github.com/goldenstar111/treedefi-contracts)
 
 
-### Vesq Finance on Polygon Main Net
+### [Vesq Finance on Polygon Main Net](https://vesq.io)
 ---
 <a href='https://vesq.io' target='_blank'>
 <img src='./project/vesq_home.png' width='47%'></img>
@@ -71,7 +71,7 @@ I have also strong technical understanding of various machine learning algorithm
 
 [Vesq Finance Frontend - React-web3](https://github.com/goldenstar111/VESQ-DAO)
 
-### Blockchain Domain Name Service on Fantom
+### [Blockchain Domain Name Service on Fantom](https://fantomdomains.io/)
 ---
 #### [FNS](https://fantomdomains.io/)
 <a href='https://fantomnameservice.netlify.app/' target='_blank'>
@@ -85,9 +85,20 @@ I have also strong technical understanding of various machine learning algorithm
 - [FNS Subgraph](https://github.com/goldenstar111/FNS-Subgraph)
 - [FNS Metadata Service Backend](https://github.com/goldenstar111/Fns-Metadata-Service-Backend)
 - [FNS Main Frontend](https://github.com/goldenstar111/FNS-App-Frontend)
+- [FNS Deployed Subgraph](https://thegraph.com/hosted-service/subgraph/goldenstar111/fnsindexer)
+- [FNS Deployed Contract](https://ftmscan.com/address/0x5BE3c31449306e15B6bc29065Efc4CdCa47C10C8#code)
 
 
-### Scorpfion Dragon NFT Marketplace on BSC
+### [EggPlant NFT Mint on Ethereum](https://eggplantnftmint.netlify.app/)
+---
+<a href='https://eggplantnftmint.netlify.app/'>
+<img src='./project/eggplant_mint.png'></img>
+</a>
+
+- [NFT Contract](https://rinkeby.etherscan.io/address/0x5098016A35851F6115816863f436dc3e85d999ED#code)
+- [Main Mint Frontend](https://github.com/goldenstar111/EggPlant-NFT-Mint-App)
+
+### [Scorpfion Dragon NFT Marketplace on BSC](https://scorpfionnft.netlify.app/)
 ---
 <a href='https://scorpfionnft.netlify.app/'>
 <img src='./project/scorpfion_nftmarketplace.png'></img>
@@ -101,7 +112,7 @@ I have also strong technical understanding of various machine learning algorithm
 
 
 ### Staking
-#### Bonsai NFT Staking
+#### [Bonsai NFT Staking](https://bonsaidefi.netlify.app/)
 ---
 <a href='https://bonsaidefi.netlify.app/'>
 <img src='./project/bonsai_nftstaking.png'></img>
@@ -110,7 +121,7 @@ I have also strong technical understanding of various machine learning algorithm
 - [Src](https://github.com/goldenstar111/Bonsai-NFT-Staking-App)
 - [Deployed Satking Contract](https://github.com/goldenstar111/Bonsai-NFT-Staking-Contract)
 
-#### Satin Token Staking on BSC
+#### [Satin Token Staking on BSC](https://satintoken.com/)
 ---
 <a href='https://satintoken.com/'>
 <img src='./project/satin_home.png' width='48%'></img>
@@ -122,7 +133,7 @@ I have also strong technical understanding of various machine learning algorithm
 - [Src](https://github.com/goldenstar111/Satin-Staking-on-BSC)
 - [Deployed Satking Contract](https://bscscan.com/address/0x66EDd71A2b816964b77351e25aD456dC50aEea42#code)
 
-#### Avax Fomo Staking on Avax Chain
+#### [Avax Fomo Staking on Avax Chain](https://avaxfomo.netlify.app/)
 ---
 <a href='https://avaxfomo.netlify.app/'>
 <img src='./project/avax_staking.png'></img>
@@ -130,7 +141,7 @@ I have also strong technical understanding of various machine learning algorithm
 
 - [Deployed Satking Contract](https://testnet.snowtrace.io/address/0xa7557a35fd52cd6b09ec71db2e3bfd76b5455a9c)
 
-#### MMX Staking on Harmony Chain
+#### [MMX Staking on Harmony Chain]()
 ---
 <a href='https://stakemmx.herokuapp.com/'>
 <img src='./project/mmx_staking.png'></img>
@@ -139,7 +150,7 @@ I have also strong technical understanding of various machine learning algorithm
 - [Deployed Satking Contract](https://explorer.harmony.one/address/0xe908142aeb76358abd0d0d0f62ee7ed982be1c75?activeTab=7)
 
 ### Presale Site
-#### Atari Token Presale
+#### [Atari Token Presale](https://atarichain.com/)
 ---
 <a href='https://defi.atarichain.com/'>
 <img src='./project/atari_presale.png'></img>
@@ -147,7 +158,7 @@ I have also strong technical understanding of various machine learning algorithm
 
 - [Contract Address](https://etherscan.io/address/0x1afebf01f5ee7195c7044939e20e2fac6a60b18f#code)
 
-#### [Benoit Token Presale]()
+#### [Benoit Token Presale](http://followupcoinpresale.com/)
 ---
 <a href='http://followupcoinpresale.com/'>
 <img src='./project/benoit_presale.png'></img>
