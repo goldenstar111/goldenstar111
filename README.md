@@ -16,6 +16,8 @@ I have also strong technical understanding of various machine learning algorithm
 <div style='display: flex; '>
 <img src='./doc/rust.png' width='90'>
 <img src='./doc/solidity.png' width='115'>
+<img src='./doc/moralis.png' width='130'>
+<img src='./doc/thegraph.png' width='70'>
 <img src='./doc/web3.webp' width='50'>
 <img src='./doc/react.svg' width='50'>
 <img src='./doc/aws.svg' width='50'>
