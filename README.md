@@ -61,6 +61,30 @@ I have also strong technical understanding of various machine learning algorithm
 
 [Tree Defi Contract](https://github.com/goldenstar111/treedefi-contracts)
 
+### [Nearnauts Eco System on Near Chain](https://nearnauts.io/)
+#### Nearnauts - First Generative NFT Project on Near Chain
+<a href='https://nearnautss.netlify.app/' target='_blank'>
+<img src='./project/nearnauts.png'></img>
+</a>
+
+#### Astrogen - First Generative NFT Launch Pad on Near Chain
+<a href='https://astrogen.io/' target='_blank'>
+<img src='./project/astrogen.png'></img>
+</a>
+
+#### [AstroMarket - Generative NFT Marketplace on Near Chain](https://astromarket.io/)
+<a href='https://astromarket1.netlify.app/' target='_blank'>
+<img src='./project/astromarket.png'></img>
+</a>
+
+#### Kaizo NFT Staking
+
+Kaizo Fighters can be staked on Staking Pool and people can take $dojo from pool as rewards based on staking time and amount
+
+<a href='https://kaizo-staking.netlify.app/' target='_blank'>
+<img src='./project/kaizo_nftstaking.png'></img>
+</a>
+
 
 ### [Vesq Finance on Polygon Main Net](https://vesq.io)
 ---
